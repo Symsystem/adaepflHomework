@@ -1,0 +1,3 @@
+http://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-tutor3-python-scikit.pdf
+
+http://scikit-learn.org/stable/auto_examples/ensemble/plot_ensemble_oob.html
